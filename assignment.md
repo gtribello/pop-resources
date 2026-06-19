@@ -2,7 +2,7 @@ The final assignment for the mathematics part of the Pathways Opportunity Progra
 
 1. How did you find the mathematics components of the programme? I am particularly interested in whether you did all the CANVAS activities before attending the in person events. Which of the online and in person mathematics activities were easy/difficult and why did you find them easy/difficult?
 2. What experience did you have with computer programming before completing the POP course? How will you use what you have learned doing mathematics with a computer from completing this course in your future studies?
-3. How have you found the studying independently from a teacher that we have asked you to do during the POP course?
+3. How have you found the studying mathematics independently and why do you think we have tried to avoid giving a traditional mathematics lecture?
 4. What have you learned about mathematics by completing the POP course?
 5. What have you learned about yourself by completing the POP course?
 
@@ -37,5 +37,5 @@ Please try to keep the tone of your answers respectful and constructive. However
 - That my teaching did not work for you.  OK, be constructive and tell what you think I should have done differently?
 - That you don't want to study mathematics at university. OK, you will probably be doing some mathematics in whatever course you choose. How do you think mathematics is used in your chosen course?
 
-In short, this activity is not about telling us that the course was perfect. It is about demonstrating that you have tried to understand what the course was trying to get you to do.
+In short, this activity is not about telling us that the course was perfect. It is about demonstrating that you have thought about what the course was trying to get you to do and hopefully that you have learned something by doing it.
  
