@@ -1,4 +1,4 @@
-During the taster day we worked on the exercises in [this colab notebook](https://colab.research.google.com/drive/10Hd6H0bGqIcH6hdK7snqY18UKAzMM6CK?usp=sharing). I also presented the slides that you can find [here](taster_slides.pdf).
+During the taster day we worked on the exercises in [this colab notebook](https://colab.research.google.com/drive/10Hd6H0bGqIcH6hdK7snqY18UKAzMM6CK?usp=sharing). I also presented the slides that you can find [here](pop-taster.pdf).
 
 The objective of the session was:
 
