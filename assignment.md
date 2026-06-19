@@ -22,8 +22,20 @@ I will use the following criteria to grade your assignment:
 
 | Mark | Description |
 | ----- | ----------- |
-| <50 | Student has not answered all five questions in their reflection or has submitted work with spelling and or gramatical errors. __Use the spelling and grammar checkers in word!__ |
+| <50 | Student has not answered all five questions in their reflection, has submitted work with spelling and or gramatical errors (__Use the spelling and grammar checkers in word!__) or is not constructive in their suggestions for the course.  |
 | 50-64 | Student answers all five questions but has thought only superficially about their experience of the POP course. |  
 | 64-70 | Student answers all five questions and has demonstrated through critical reflection on their experience that they have learned something from the POP course. |  
 | 70+ | Student answers all five questions, demonstrates that they have thought about the objectives that I had when designing the course when critically reflecting on their experiences. | 
+
+# What I am not grading
+
+Please try to keep the tone of your answers respectful and constructive. However, note that you will not loose any marks if you say any of the following things:
+
+- That you didn't do the homework assignments. OK, tell me why you didn't do them. Were they too hard? Could you not access them? Do you think that doing them would have helped you do better in the summer school?
+- That you didn't enjoy some of the mathematics activities. OK, tell me why you didn't enjoy these activities. What could you have done to make them more enjoyable? If you didn't enjoy the POP course, do you still think university is for you?
+- That after doing the POP course you have decided you don't want to go to university. Great, you learning this from this course is as important as you learning that you do indeed want to go to university.
+- That my teaching did not work for you.  OK, be constructive and tell what you think I should have done differently?
+- That you don't want to study mathematics at university. OK, you will probably be doing some mathematics in whatever course you choose. How do you think mathematics is used in your chosen course?
+
+In short, I don't mind if you tell me the course wasn't perfect. However, I do what you to demonstrate that you have tried to understand what I was trying to do.
  
