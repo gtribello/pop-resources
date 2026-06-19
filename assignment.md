@@ -23,7 +23,7 @@ I will use the following criteria to grade your assignment:
 | Mark | Description |
 | ----- | ----------- |
 | <50 | Student has not answered all five questions in their reflection or has submitted work with spelling and or gramatical errors. __Use the spelling and grammar checkers in word!__ |
-| 50 - 64 | Student answers all five questions but has thought only superficially about their experience of the POP course. |  
-| 64 - 70 | Student answers all five questions and has demonstrated through critical reflection on their experience that they have learned something from the POP course. |  
+| 50-64 | Student answers all five questions but has thought only superficially about their experience of the POP course. |  
+| 64-70 | Student answers all five questions and has demonstrated through critical reflection on their experience that they have learned something from the POP course. |  
 | 70+ | Student answers all five questions, demonstrates that they have thought about the objectives that I had when designing the course when critically reflecting on their experiences. | 
  
