@@ -1,6 +1,7 @@
 In the following pages you will find the resources that will be used in the mathematics component of the mathematics, physics and chemistry pathways opportunity programme (POP) school.  
 
 - Clicking __Introduction__ brings you to this page.
+- Clicking __Homework__ brings you to (some) of the resources that you were sent to work through online before the taster day.
 - Clicking __Taster day__ brings you to the resources that we used on the taster day on 1st April.
 - Clicking __Summer school__ brings you to the resources that will be used for the summer school.
 - Clicking __Assignment__ brings you to a description of the final assignment that you need to submit for the programme.
