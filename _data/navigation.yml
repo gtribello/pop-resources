@@ -1,6 +1,8 @@
 pages:
 - title: Introduction 
   url: /
+- title: Homework
+  url: /homework.html
 - title: Taster day
   url: /taster.html
 - title: Summer school
