@@ -37,5 +37,5 @@ Please try to keep the tone of your answers respectful and constructive. However
 - That my teaching did not work for you.  OK, be constructive and tell what you think I should have done differently?
 - That you don't want to study mathematics at university. OK, you will probably be doing some mathematics in whatever course you choose. How do you think mathematics is used in your chosen course?
 
-In short, I don't mind if you tell me the course wasn't perfect. However, I do want you to demonstrate that you have tried to understand what the course was trying to do.
+In short, this activity is not about telling us that the course was perfect. It is about demonstrating that you have tried to understand what the course was trying to get you to do.
  
