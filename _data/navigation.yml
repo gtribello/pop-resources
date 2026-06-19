@@ -1,0 +1,9 @@
+pages:
+- title: Introduction 
+  url: /
+- title: Taster day
+  url: /taster.html
+- title: Summer school
+  url: /summer_school.html
+- title: Assignment
+  url: /assignment.html
