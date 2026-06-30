@@ -6,7 +6,7 @@ The final assignment for the mathematics part of the Pathways Opportunity Progra
 4. What have you learned about mathematics by completing the POP course?
 5. What have you learned about yourself by completing the POP course?
 
-Please copy each of the questions into your submission and place your answers underneath the relevant question.  Lastly, note that the pages of this website explain the objectives I was trying to address when I developed the homework, taster and summer school components of this programme. Please try to include __your opinions__ as to whether or not you feel these objectives were achieved.    
+__You should use [this form](https://forms.cloud.microsoft/e/FrajfC7q1E) to provide your answers__    
 
 # Grading and the stakes
 
